@@ -1,0 +1,23 @@
+<div class="container">
+    <form #loginForm="ngForm" (ngSubmit)="loginSubmit(loginForm.value)" novalidate>
+
+        <div class="input-group">
+            <span class="input-group-addon"> <i class="glyphicon glyphicon-user"></i> </span>
+            <input type="text" class="form-control" name="emailId"  ngModel #emailId="ngModel"  required minlength="2" maxlength="50" email/>
+        </div>
+
+        <div class="input-group">
+            <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+            <input type="password" class="form-control" name="password" ngModel #password="ngModel" required minlength="2" maxlength="10"/>
+        </div>
+
+        <button [disabled]="!loginForm.valid" class="btn btn-primary"> Login </button>
+    </form>
+
+    <div *ngIf="emailId.errors?.['required']  && emailId.touched">  <h5> Enter Email Id </h5> </div>
+    <div *ngIf="password.errors?.['required'] && password.touched"> <h5> Enter Password </h5> </div>
+    <div *ngIf="emailId.errors?.['email'] && emailId.touched"> <h5> Enter EmailId Correctly </h5> </div>
+
+    <div *ngIf="emailId.errors?.['minlength']  && emailId.touched">  <h5> Enter atleast 2 character for EmailID </h5> </div>
+    <div *ngIf="password.errors?.['minlength'] && password.touched"> <h5> Enter atleast 2 character for Password  </h5> </div>
+</div>
