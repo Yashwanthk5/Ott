@@ -1,0 +1,159 @@
+
+rohit@INTO-THE-ALPHA MINGW64 /c/Angular/project2
+$ git config --global user.name yash
+
+rohit@INTO-THE-ALPHA MINGW64 /c/Angular/project2
+$ git config --global user.email "yashwanthkumar707@gmail.com"
+
+rohit@INTO-THE-ALPHA MINGW64 /c/Angular/project2
+$ git config --global user.name "yash"
+
+rohit@INTO-THE-ALPHA MINGW64 /c/Angular/project2
+$ git init
+Initialized empty Git repository in C:/Angular/project2/.git/
+
+rohit@INTO-THE-ALPHA MINGW64 /c/Angular/project2 (master)
+$ git add .
+warning: in the working copy of '.editorconfig', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/extensions.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/launch.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vscode/tasks.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'angular.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/aboutus/aboutus.component.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/aboutus/aboutus.component.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/adminhome/adminhome.component.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/adminhome/adminhome.component.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/app-routing.module.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/app.component.spec.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/app.component.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/app.module.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/auth.guard.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/header/header.component.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/header/header.component.spec.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/header/header.component.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/header1/header1.component.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/header1/header1.component.spec.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/header1/header1.component.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/header2/header2.component.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/header2/header2.component.spec.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/header2/header2.component.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/home/home.component.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/home/home.component.spec.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/home/home.component.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/login/login.component.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/login/login.component.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/logout/logout.component.spec.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/logout/logout.component.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/prj.service.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/register/register.component.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/register/register.component.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/start/start.component.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/start/start.component.spec.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/start/start.component.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/watch.service.spec.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/app/watch.service.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/main.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/styles.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tsconfig.app.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tsconfig.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tsconfig.spec.json', LF will be replaced by CRLF the next time Git touches it
+
+rohit@INTO-THE-ALPHA MINGW64 /c/Angular/project2 (master)
+$ git commit -m "Intiail commit"
+[master (root-commit) 0a9e8f0] Intiail commit
+ 67 files changed, 21220 insertions(+)
+ create mode 100644 .editorconfig
+ create mode 100644 .gitignore
+ create mode 100644 .vscode/extensions.json
+ create mode 100644 .vscode/launch.json
+ create mode 100644 .vscode/tasks.json
+ create mode 100644 README.md
+ create mode 100644 angular.json
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 src/app/aboutus/aboutus.component.css
+ create mode 100644 src/app/aboutus/aboutus.component.html
+ create mode 100644 src/app/aboutus/aboutus.component.ts
+ create mode 100644 src/app/adminhome/adminhome.component.css
+ create mode 100644 src/app/adminhome/adminhome.component.html
+ create mode 100644 src/app/adminhome/adminhome.component.ts
+ create mode 100644 src/app/app-routing.module.ts
+ create mode 100644 src/app/app.component.css
+ create mode 100644 src/app/app.component.html
+ create mode 100644 src/app/app.component.spec.ts
+ create mode 100644 src/app/app.component.ts
+ create mode 100644 src/app/app.module.ts
+ create mode 100644 src/app/auth.guard.ts
+ create mode 100644 src/app/header/header.component.css
+ create mode 100644 src/app/header/header.component.html
+ create mode 100644 src/app/header/header.component.spec.ts
+ create mode 100644 src/app/header/header.component.ts
+ create mode 100644 src/app/header/style.scss
+ create mode 100644 src/app/header1/header1.component.css
+ create mode 100644 src/app/header1/header1.component.html
+ create mode 100644 src/app/header1/header1.component.spec.ts
+ create mode 100644 src/app/header1/header1.component.ts
+ create mode 100644 src/app/header2/header2.component.css
+ create mode 100644 src/app/header2/header2.component.html
+ create mode 100644 src/app/header2/header2.component.spec.ts
+ create mode 100644 src/app/header2/header2.component.ts
+ create mode 100644 src/app/home/home.component.css
+ create mode 100644 src/app/home/home.component.html
+ create mode 100644 src/app/home/home.component.spec.ts
+ create mode 100644 src/app/home/home.component.ts
+ create mode 100644 src/app/login/login.component.css
+ create mode 100644 src/app/login/login.component.html
+ create mode 100644 src/app/login/login.component.ts
+ create mode 100644 src/app/logout/logout.component.css
+ create mode 100644 src/app/logout/logout.component.html
+ create mode 100644 src/app/logout/logout.component.spec.ts
+ create mode 100644 src/app/logout/logout.component.ts
+ create mode 100644 src/app/prj.service.ts
+ create mode 100644 src/app/register/register.component.css
+ create mode 100644 src/app/register/register.component.html
+ create mode 100644 src/app/register/register.component.ts
+ create mode 100644 src/app/start/start.component.css
+ create mode 100644 src/app/start/start.component.html
+ create mode 100644 src/app/start/start.component.spec.ts
+ create mode 100644 src/app/start/start.component.ts
+ create mode 100644 src/app/watch.service.spec.ts
+ create mode 100644 src/app/watch.service.ts
+ create mode 100644 src/assets/.gitkeep
+ create mode 100644 src/assets/images/back.jpg
+ create mode 100644 src/assets/images/large.png
+ create mode 100644 src/favicon.ico
+ create mode 100644 src/index.html
+ create mode 100644 src/main.ts
+ create mode 100644 src/proxy.json
+ create mode 100644 src/styles.css
+ create mode 100644 tsconfig.app.json
+ create mode 100644 tsconfig.json
+ create mode 100644 tsconfig.spec.json
+
+rohit@INTO-THE-ALPHA MINGW64 /c/Angular/project2 (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+rohit@INTO-THE-ALPHA MINGW64 /c/Angular/project2 (master)
+$ git remote add origin git@github.com:Yashwanthk5/Ott.git
+
+rohit@INTO-THE-ALPHA MINGW64 /c/Angular/project2 (master)
+$ git push origin master
+Enumerating objects: 74, done.
+Counting objects: 100% (74/74), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (69/69), done.
+Writing objects: 100% (74/74), 278.63 KiB | 1.19 MiB/s, done.
+Total 74 (delta 16), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (16/16), done.
+To github.com:Yashwanthk5/Ott.git
+ * [new branch]      master -> master
+
+rohit@INTO-THE-ALPHA MINGW64 /c/Angular/project2 (master)
+$
